@@ -4,7 +4,7 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 💫 About Me:
 🔭 I’m currently working on DSA and front-end<br>🌱 I’m currently learning data structures<br>💬 Ask me about java<br>⚡ Fun fact:Every day, approximately 317 million new viruses are discovered, and nearly 5000 new computer malware are launched each month
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<img align="right" alt="coding" width="400" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif](https://media.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
 
 
 ## 🌐 Socials:
