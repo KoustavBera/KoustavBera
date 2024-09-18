@@ -27,5 +27,5 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/koustavbera) 
 
-  
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
