@@ -2,7 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F700&width=435&lines=Hi+I'm+Koustav;I'm+a+developer;I'm+UI%2FUX+Designer;I'm+a+painter;I+do+poetry;Nice+to+meet+you%2C+%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86!" alt="Typing SVG" /></a>
 </p>
 a coding apprentice on his way to become wizard🧙‍♂️🔮✨
-# 💫 About Me:
+
+### 💫 About Me:
 <img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY2NDMzNDcsIm5iZiI6MTcyNjY0MzA0NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE4VDA3MDQwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5N2ZhYWM4YmIzNDViMzlmNDQ5OTRiYmIwMGZmYWRiZTJlODYxNzgxNzE1NDA1MmI4YzRkMDFhMTkzNGE0OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KKrE-UwuXcuKFFLjYaCwjR5TTAWdxb6i9LhQXTQyAyo">
 🔭 I’m currently working on Web Developement !<br>👯 I’m looking to collaborate on any hackathon<br>🤝 You need help? Oi Oi buddy I am at your service<br>💬 Ask me about java<br>🌱 I’m currently learning Data Structures<br>⚡ Fun fact : Every day, approximately 317 million new viruses are <br>discovered, and nearly 5000 new computer malware are launched<br> each month!<br>💗 I also ♡ Physics
 
