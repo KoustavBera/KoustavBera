@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F700&width=435&lines=Hi+I'm+Koustav;I'm+a+developer;I'm+UI%2FUX+Designer;I'm+a+painter;I+do+poetry;Nice+to+meet+you%2C+%E3%81%82%E3%82%8A%E3%81%8C%E3%81%A8%E3%81%86!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F700&width=435&lines=Hi+I'm+Koustav;I'm+a+developer;I'm+UI%2FUX+Designer;I'm+a+painter;I+do+poetry;Nice+to+meet+you%2C+%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0+" alt="Typing SVG" /></a>
 </p>
 a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 
