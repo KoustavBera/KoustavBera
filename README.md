@@ -29,8 +29,8 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 ### 😂 Random Dev Meme
 <img src='https://milindkusahu.github.io/Random-Meme-Generator/' style="height: 400px;"/>
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](buymeacoffee.com/KoustavBera) 
+## 💰 You can help me by Donating
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/KoustavBera)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
