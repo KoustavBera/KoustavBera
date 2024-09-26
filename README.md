@@ -27,7 +27,8 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 [![](https://visitcount.itsvg.in/api?id=KoustavBera&icon=5&color=13)](https://visitcount.itsvg.in)
 
 ### 😂 Random Dev Meme
-![Random Dev Meme](https://your-image-url.com)
+![Random XKCD Comic](https://c.xkcd.com/random/comic/)
+
 
 
 
