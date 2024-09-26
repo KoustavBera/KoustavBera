@@ -27,7 +27,8 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 [![](https://visitcount.itsvg.in/api?id=KoustavBera&icon=5&color=13)](https://visitcount.itsvg.in)
 
 ### 😂 Random Dev Meme
-[![Random Dev Meme](https://api.memegen.link/images/code.png)](https://api.memegen.link/images/code.png)
+<img src="https://meme-api.com/gimme/programmerhumor" alt="Random Dev Meme" style="height: 400px;"/>
+
 
 
 ## 💰 If my work added some benefit in your life and you can consider buying me a coffee! 😊
