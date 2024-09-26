@@ -27,9 +27,10 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 [![](https://visitcount.itsvg.in/api?id=KoustavBera&icon=5&color=13)](https://visitcount.itsvg.in)
 
 ### 😂 Random Dev Meme
-<img src='https://milindkusahu.github.io/Random-Meme-Generator/' style="height: 400px;"/>
+[![Random Dev Meme](https://api.memegen.link/images/code.png)](https://api.memegen.link/images/code.png)
 
-## 💰 You can help me by Donating
+
+## 💰 If my work added some benefit in your life and you can consider buying me a coffee! 😊
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/KoustavBera)
 
 
