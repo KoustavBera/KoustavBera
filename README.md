@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34F700&width=435&lines=Hi+I'm+Koustav;I'm+a+developer;I'm+UI%2FUX+Designer;I'm+a+painter;I+do+poetry;Nice+to+meet+you%2C+%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=1000&color=09F700&center=true&vCenter=true&width=435&height=100&lines=Hi%2C+I+am+Koustav;%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0%2C+%E0%A6%85%E0%A6%AE%E0%A6%BF+%E0%A6%95%E0%A7%8C%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A5%8C%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B5+%E0%A4%B9%E0%A5%82%E0%A4%82+;Hallo%2C+ich+bin+Koustav;Salut%2C+je+suis+Koustav;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AF%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%96%E3%81%A7%E3%81%99+" alt="Typing SVG" /></a>
 </p>
 a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 
