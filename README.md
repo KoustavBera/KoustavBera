@@ -7,6 +7,10 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 <img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjY2NDMzNDcsIm5iZiI6MTcyNjY0MzA0NywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA5MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwOTE4VDA3MDQwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTM5N2ZhYWM4YmIzNDViMzlmNDQ5OTRiYmIwMGZmYWRiZTJlODYxNzgxNzE1NDA1MmI4YzRkMDFhMTkzNGE0OTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.KKrE-UwuXcuKFFLjYaCwjR5TTAWdxb6i9LhQXTQyAyo">
 🔭 I’m currently working on Web Developement !<br>👯 I’m looking to collaborate on any hackathon<br>🤝 Let's connect and make an impact !<br>💬 Ask me about java<br>🌱 I’m currently learning Data Structures<br>⚡ Fun fact : Every day, approximately 317 million new viruses are <br>discovered, and nearly 5000 new computer malware are launched<br> each month!<br>💗 I also ♡ Physics
 
+<div align="center">
+  
+  ![snake gif](https://github.com/KoustavBera/KoustavBera/blob/output/github-snake-dark.svg)
+</div>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com/koustav.bera.503) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/koustav__18/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/koustav-bera-b88b95270/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Disastrous_Storm_449/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/BeraKousta8087) 
@@ -28,11 +32,6 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 
 ---
 [![](https://visitcount.itsvg.in/api?id=KoustavBera&icon=5&color=13)](https://visitcount.itsvg.in)
-
-### 😂 Random Dev Meme
-![Random Dev Meme](https://readme-typer.vercel.app/api/random-meme)
-
-
 
 
 
