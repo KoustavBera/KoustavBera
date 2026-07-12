@@ -1,3 +1,13 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shreejithns&label=Profile%20views&color=0e75b6&style=flat" alt="shreejithns" /> </p>
+<p align="center">
+  <img
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/81bb4b165684019.640b6038d133e.gif"
+    alt="Pixel coding workspace"
+    width="100%"
+  />
+</p>
+
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=2000&pause=1000&color=09F700&center=true&vCenter=true&width=435&height=100&lines=Hi%2C+I+am+Koustav;%E0%A6%A8%E0%A6%AE%E0%A6%B8%E0%A7%8D%E0%A6%95%E0%A6%BE%E0%A6%B0%2C+%E0%A6%85%E0%A6%AE%E0%A6%BF+%E0%A6%95%E0%A7%8C%E0%A6%B8%E0%A7%8D%E0%A6%A4%E0%A6%AD;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%95%E0%A4%BE%E0%A4%B0%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%95%E0%A5%8C%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%B5+%E0%A4%B9%E0%A5%82%E0%A4%82+;Hallo%2C+ich+bin+Koustav;Salut%2C+je+suis+Koustav;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E7%A7%81%E3%81%AF%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%96%E3%81%A7%E3%81%99+" alt="Typing SVG" /></a>
 </p>
