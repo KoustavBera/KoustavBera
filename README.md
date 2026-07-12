@@ -39,8 +39,8 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 
 <!-- Markdown -->
 ## 😄 Meme of the day:
-### ⚡ Meme of the Moment
-<img src="https://meme-api.com/gimme" alt="Trending Internet Meme" width="450" />
+<img src="./daily-meme.jpg" alt="Trending Internet Meme" width="450" />
+
 
 
 ### ✍️ Random Dev Quote
