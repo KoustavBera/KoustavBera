@@ -16,14 +16,31 @@ jobs:
 
       - name: Fetch Fresh Meme File
         run: |
-          # Pulls raw metadata, extracts the direct jpg/png URL, and downloads it safely
-          MEME_URL=$(curl -s https://meme-api.com | jq -r '.url')
-          curl -sL "$MEME_URL" -o daily-meme.jpg
+          # 1. Fetch JSON with a timeout and user-agent to bypass basic blocks
+          RESPONSE=$(curl -s -m 15 -H "User-Agent: Mozilla/5.0" https://meme-api.com)
+          
+          # 2. Check if the response contains the "url" key using jq safely
+          MEME_URL=$(echo "$RESPONSE" | jq -r '.url // empty')
+          
+          # 3. If the URL is valid, download it. Otherwise, use a safe backup meme.
+          if [ -n "$MEME_URL" ] && [ "$MEME_URL" != "null" ]; then
+            echo "Successfully retrieved meme URL: $MEME_URL"
+            # Get the correct file extension from the URL
+            EXT="${MEME_URL##*.}"
+            curl -sL "$MEME_URL" -o "daily-meme.${EXT}"
+            
+            # Clean up old file versions to avoid repo clutter
+            rm -f daily-meme.jpg daily-meme.png daily-meme.gif
+            mv "daily-meme.${EXT}" daily-meme.jpg
+          else
+            echo "API failed or returned invalid data. Using fallback backup meme."
+            curl -sL "https://unsplash.com" -o daily-meme.jpg
+          fi
 
       - name: Commit and Push Image Asset
         run: |
           git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.email "github-actions[bot]@://github.com"
           git add daily-meme.jpg
           git commit -m "docs: sync fresh daily meme asset" || exit 0
           git push
