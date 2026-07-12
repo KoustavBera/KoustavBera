@@ -39,7 +39,9 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 
 <!-- Markdown -->
 ## 😄 Meme of the day:
-![Jokes Card](https://readme-jokes.vercel.app/api)
+### ⚡ Meme of the Moment
+<img src="https://meme-api.com/gimme" alt="Trending Internet Meme" width="450" />
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
