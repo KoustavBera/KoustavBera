@@ -31,14 +31,15 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,html,css,mysql,sqlite,mongodb,express,nodejs,python,fastapi,react,cpp,git,github,linux,vscode,aws,docker&perline=7" alt="tech stack"/>
 </p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KoustavBera&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KoustavBera&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KoustavBera&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KoustavBera&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
+<!-- Markdown -->
+## 😄 Meme of the day:
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
