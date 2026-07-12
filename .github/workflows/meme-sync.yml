@@ -1,0 +1,29 @@
+name: Update Daily Profile Meme
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Updates automatically every day at midnight
+  workflow_dispatch: # Allows you to manually trigger it anytime with a button click
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Fresh Meme File
+        run: |
+          # Pulls raw metadata, extracts the direct jpg/png URL, and downloads it safely
+          MEME_URL=$(curl -s https://meme-api.com | jq -r '.url')
+          curl -sL "$MEME_URL" -o daily-meme.jpg
+
+      - name: Commit and Push Image Asset
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily-meme.jpg
+          git commit -m "docs: sync fresh daily meme asset" || exit 0
+          git push
