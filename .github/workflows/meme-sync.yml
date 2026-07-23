@@ -19,19 +19,19 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Fetch Meme from Giphy Official API
+      - name: Update README with Giphy URL
         env:
           GIPHY_API_KEY: ${{ secrets.GIPHY_API_KEY }}
         run: |
           python -c "
-          import os, urllib.request, json, random
+          import os, urllib.request, json, random, re
 
           api_key = os.environ.get('GIPHY_API_KEY')
           if not api_key:
               raise Exception('GIPHY_API_KEY secret is missing!')
 
           url = f'https://api.giphy.com/v1/gifs/search?api_key={api_key}&q=programming+meme&limit=25&rating=g'
-          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+          headers = {'User-Agent': 'Mozilla/5.0'}
 
           req = urllib.request.Request(url, headers=headers)
           with urllib.request.urlopen(req) as resp:
@@ -40,21 +40,36 @@ jobs:
           gifs = data.get('data', [])
           if gifs:
               selected_gif = random.choice(gifs)
-              gif_url = selected_gif['images']['original']['url']
-              print(f'Successfully picked Giphy URL: {gif_url}')
+              # Use fixed_height variant for lightweight, consistent sizing
+              gif_url = selected_gif['images']['fixed_height']['url']
               
-              img_req = urllib.request.Request(gif_url, headers=headers)
-              with urllib.request.urlopen(img_req) as img_resp, open('daily-meme.gif', 'wb') as f:
-                  f.write(img_resp.read())
-              print('Successfully downloaded GIF from Giphy!')
+              with open('README.md', 'r') as f:
+                  content = f.read()
+              
+              meme_block = f'<!-- DAILY-MEME-START -->\n<img src=\"{gif_url}\" alt=\"Daily Meme\" width=\"400\"/>\n<!-- DAILY-MEME-END -->'
+              
+              if '<!-- DAILY-MEME-START -->' in content:
+                  new_content = re.sub(
+                      r'<!-- DAILY-MEME-START -->.*?<!-- DAILY-MEME-END -->',
+                      meme_block,
+                      content,
+                      flags=re.DOTALL
+                  )
+              else:
+                  new_content = content.strip() + '\n\n' + meme_block
+
+              with open('README.md', 'w') as f:
+                  f.write(new_content)
+                  
+              print(f'Successfully updated README with URL: {gif_url}')
           else:
-              raise Exception('No GIFs returned from Giphy query.')
+              raise Exception('No GIFs returned from Giphy.')
           "
 
-      - name: Commit and Push Image Asset
+      - name: Commit and Push README
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add daily-meme.gif
-          git commit -m "docs: sync fresh daily meme asset" || exit 0
+          git add README.md
+          git commit -m "docs: sync fresh daily meme url" || exit 0
           git push
