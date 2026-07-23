@@ -14,6 +14,11 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
       - name: Fetch Meme from Giphy Official API
         env:
           GIPHY_API_KEY: ${{ secrets.GIPHY_API_KEY }}
@@ -22,10 +27,13 @@ jobs:
           import os, urllib.request, json, random
 
           api_key = os.environ.get('GIPHY_API_KEY')
-          # Search query for developer/programmer memes
-          url = f'https://api.giphy.com/v1/gifs/search?api_key={api_key}&q=programming+meme&limit=25&rating=g'
+          if not api_key:
+              raise Exception('GIPHY_API_KEY secret is missing!')
 
-          req = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0'})
+          url = f'https://api.giphy.com/v1/gifs/search?api_key={api_key}&q=programming+meme&limit=25&rating=g'
+          headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64)'}
+
+          req = urllib.request.Request(url, headers=headers)
           with urllib.request.urlopen(req) as resp:
               data = json.loads(resp.read().decode('utf-8'))
               
@@ -33,12 +41,14 @@ jobs:
           if gifs:
               selected_gif = random.choice(gifs)
               gif_url = selected_gif['images']['original']['url']
+              print(f'Successfully picked Giphy URL: {gif_url}')
               
-              # Download selected GIF
-              img_req = urllib.request.Request(gif_url, headers={'User-Agent': 'Mozilla/5.0'})
+              img_req = urllib.request.Request(gif_url, headers=headers)
               with urllib.request.urlopen(img_req) as img_resp, open('daily-meme.gif', 'wb') as f:
                   f.write(img_resp.read())
               print('Successfully downloaded GIF from Giphy!')
+          else:
+              raise Exception('No GIFs returned from Giphy query.')
           "
 
       - name: Commit and Push Image Asset
