@@ -39,7 +39,7 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 
 <!-- Markdown -->
 ## 😄 Meme of the day:
-<img src="./daily-meme.jpg" alt="Trending Internet Meme" width="450" />
+![Daily Meme](./daily-meme.gif)
 
 
 
