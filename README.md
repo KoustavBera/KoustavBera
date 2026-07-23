@@ -56,3 +56,7 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!-- DAILY-MEME-START -->
+<img src="https://media1.giphy.com/media/v1.Y2lkPWIyZDUxOTgwcnYyeHllbTRxbDc0bWt3a3NwMXV6amI1a2xleWttZ3l4cW5kN2FmZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cdqABouTTTdzHFmZjp/200.gif" alt="Daily Meme" width="400"/>
+<!-- DAILY-MEME-END -->
