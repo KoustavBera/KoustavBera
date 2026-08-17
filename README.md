@@ -36,7 +36,7 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 ![](https://github-readme-stats.vercel.app/api?username=KoustavBera&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KoustavBera&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KoustavBera&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+
 <!-- Markdown -->
 ## 😄 Meme of the day:
 <!-- DAILY-MEME-START -->
