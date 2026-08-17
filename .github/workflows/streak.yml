@@ -1,0 +1,2 @@
+- name: GitHub Readme Streak Stats Action
+  uses: DenverCoder1/github-readme-streak-stats@v1.7.0
