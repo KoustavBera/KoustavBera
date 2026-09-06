@@ -40,7 +40,7 @@ a coding apprentice on his way to become wizard🧙‍♂️🔮✨
 <!-- Markdown -->
 ## 😄 Meme of the day:
 <!-- DAILY-MEME-START -->
-<img src="https://media2.giphy.com/media/v1.Y2lkPWIyZDUxOTgwZmd3M2FrN3JqeDlmNW53bmI0b3hraHNyMjByM3prOWxvb3M1YjVzeSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bU9svm5nVuRqtuof6B/200.gif" alt="Daily Meme" width="400"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPWIyZDUxOTgwcjN4ejlncjhraWx0bmd2ZmozenFncG1hbWszZ2JhY2xmdTM3N3dxMiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8cErtW1tMEvYk71pN8/200.gif" alt="Daily Meme" width="400"/>
 <!-- DAILY-MEME-END -->
 
 
